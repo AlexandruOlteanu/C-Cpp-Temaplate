@@ -55,9 +55,7 @@ int main(int argc, char **args) {
     // cin >> number_of_tests;
     for (int test = 1; test <= number_of_tests; ++test) {
         
-        int a, b;
-        cin >> a >> b;
-        cout << a + b << '\n';
+        
         
     }   
 
